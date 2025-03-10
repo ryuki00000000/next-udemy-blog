@@ -20,7 +20,7 @@ export default function LoginForm() {
   )
 
   return (
-    <Card className='w-full max-w-md mx-auto'>
+    <Card className='w-md min-w-80 mx-auto'>
         <CardHeader>
             <CardTitle>ログイン</CardTitle>
         </CardHeader>
